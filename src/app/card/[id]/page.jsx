@@ -309,7 +309,7 @@ const tamanhos = ["P", "M", "G"];
         <p className='mt-2 text-xl'>Prefere receber ofertas de produtos:</p>
         <div className='flex gap-4 mt-2'>
           <label className='flex items-center gap-2 font-medium text-xl'>
-            <input type='radio' name='genero' value='masculino'className='w-full' /> Masculino
+            <input type='radio' name='genero' value='masculino' className='' /> Masculino
           </label>
           <label className='flex items-center gap-2 font-medium text-xl'>
             <input type='radio' name='genero' value='feminino' /> Feminino
